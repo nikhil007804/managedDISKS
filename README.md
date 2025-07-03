@@ -1,3 +1,4 @@
+ 
 # Azure Managed Disks Terraform Deployment
  
 This repository contains Terraform code and a GitHub Actions workflow to deploy Azure Managed Disks resources.
@@ -103,3 +104,7 @@ Azure Managed Disks are storage drives provided by Microsoft Azure that you can 
 You can choose different types of disks based on your needs (for example, faster or cheaper). Managed Disks are reliable, secure, and easy to use for storing data in Azure.
  
 ---
+ 
+Terraform | HashiCorp Developer
+Explore Terraform product documentation, tutorials, and examples.
+ 
